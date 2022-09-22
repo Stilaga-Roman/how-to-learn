@@ -48,6 +48,7 @@
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
+  z-index: 3;
 }
 
 .header__link {
